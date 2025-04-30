@@ -1,1 +1,2 @@
-# SplitKB
+![banner](./ErgodoxEZ/assets/)
+# SplitKB - My Keyboards
